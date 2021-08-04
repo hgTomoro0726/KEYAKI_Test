@@ -22,5 +22,5 @@ anime.timeline({})
 window.setTimeout(dispMsg, 6000);
 
 function dispMsg() {
-  location.href = "/top.html";
+  location.href = "https://tomoro0726.github.io/KEYAKI_Test/top.html";
 }
